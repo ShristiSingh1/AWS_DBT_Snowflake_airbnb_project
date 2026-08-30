@@ -490,19 +490,6 @@ Through this project, I worked with:
 
 ---
 
-# 🔮 Future Improvements
-
-* [ ] Add a Power BI dashboard
-* [ ] Add automated CI/CD using GitHub Actions
-* [ ] Add more comprehensive dbt tests
-* [ ] Add pipeline monitoring
-* [ ] Add data quality reporting
-* [ ] Add additional business metrics
-* [ ] Improve documentation with dbt lineage screenshots
-* [ ] Add automated AWS S3 → Snowflake ingestion
-
----
-
 # 👤 Author
 
 **Shristi Singh**
