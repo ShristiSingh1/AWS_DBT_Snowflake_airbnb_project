@@ -512,8 +512,3 @@ Data Engineering Portfolio Project
 **Technologies:**
 AWS S3 · Snowflake · dbt · SQL · Python · Git
 
----
-
-## 📌 Project Note
-
-This project was developed as part of my learning and hands-on practice with modern data engineering technologies. The implementation is based on a tutorial/reference project and was used to understand and practice AWS, Snowflake, dbt, SQL transformations, data modeling, and Git-based project development.
