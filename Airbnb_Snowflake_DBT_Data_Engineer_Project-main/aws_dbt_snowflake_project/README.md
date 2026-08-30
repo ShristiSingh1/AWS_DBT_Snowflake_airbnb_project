@@ -1,15 +1,12 @@
-Welcome to your new dbt project!
+# Airbnb dbt Project
 
-### Using the starter project
+This dbt project transforms Airbnb booking, host, and listing data stored in Snowflake.
 
-Try running the following commands:
-- dbt run
-- dbt test
+The project follows a Bronze → Silver → Gold architecture and includes:
 
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- Incremental dbt models
+- SCD Type 2 snapshots
+- Custom dbt macros
+- Data quality tests
+- Jinja templating
+- Analytics-ready Gold models
